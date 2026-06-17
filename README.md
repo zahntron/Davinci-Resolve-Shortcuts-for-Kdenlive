@@ -1,4 +1,4 @@
-![DaVinci Resolve Layout for Kdenlive](assets/kdenlive.png)
+(assets/kdenlive.png)
 
 # DaVinci Resolve Layout for Kdenlive
 
