@@ -65,7 +65,7 @@ This is also a personal project: Resolve's shortcut logic is genuinely intuitive
 
 This file covers the full list of Kdenlive's assignable shortcuts (~885 entries). Many are still mapped to `none` — either because no Resolve equivalent exists, or because the mapping logic is still being worked out for tools that behave differently between the two apps.
 
-Contributions are welcome. If you have a mapping suggestion — especially for features where the two apps diverge — open an Issue or a PR with your reasoning.
+Contributions are welcome. If you have a mapping suggestion, especially for features where the two apps diverge, open an Issue or a PR with your reasoning.
 
 ---
 
