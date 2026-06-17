@@ -1,4 +1,4 @@
-(assets/kdenlive.png)
+([<img src="path/to/kdenlive.png">])
 
 # DaVinci Resolve Layout for Kdenlive
 
