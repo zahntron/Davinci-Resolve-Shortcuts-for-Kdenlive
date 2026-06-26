@@ -33,7 +33,7 @@ More mappings are actively being added. As of now it's a proof of concept but so
 
 ## Why It Was Made
 
-DaVinci Resolve is a powerful, industry-standard NLE. But its linux variant has some big asterisks. When it works, it's incredible and indistinguishable from its Mac and Windows counterparts. When it doesn't work, well...make some different plans for your day. Kdenlive is a capable open-source alternative that runs natively on Linux, and it's growing every day. 
+DaVinci Resolve is a powerful, industry-standard NLE. But its Linux variant has some big asterisks. When it works, it's incredible and indistinguishable from its Mac and Windows counterparts. When it doesn't work, well...make some different plans for your day. Kdenlive is a capable open-source alternative that runs natively on Linux, and it's growing every day. 
 
 The friction of switching isn't really the features, it's the muscle memory. Years of blade cuts on `B`, and reaching for `Shift+Backspace` to ripple delete adds up. This shortcut layout exists to remove that friction so the transition to open-source tools feels like a continuation rather than a restart.
 
