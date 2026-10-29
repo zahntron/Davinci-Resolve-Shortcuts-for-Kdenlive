@@ -1,4 +1,4 @@
-[DaVinci Resolve Layout for Kdenlive]([Kdenlive.png](https://github.com/zahntron/Davinci-Resolve-Shortcuts-for-Kdenlive/blob/main/Kdenlive.png))
+[DaVinci Resolve Layout for Kdenlive](https://github.com/zahntron/Davinci-Resolve-Shortcuts-for-Kdenlive/blob/main/Kdenlive.png)
 
 # DaVinci Resolve Layout for Kdenlive
 
